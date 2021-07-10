@@ -10,4 +10,4 @@ https://rolling-scopes-school.github.io/mir97-JSFE2021Q1/match-match-game/dist/
 
 https://rolling-scopes-school.github.io/mir97-JSFE2021Q1/async-race/dist/
 
-https://mir97-english-for-kids.netlify.app/#/# Links
+https://mir97-english-for-kids.netlify.app/#/#
